@@ -1,7 +1,6 @@
 matplotlib
 functions
 bayesian
-frequentist
 graph_objects
 math
 scipy
