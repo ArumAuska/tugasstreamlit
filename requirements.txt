@@ -1,7 +1,6 @@
 matplotlib
 functions
 bayesian
-math
 scipy
 seaborn
 round_decimals_down
