@@ -4,5 +4,4 @@ bayesian
 scipy
 seaborn
 numpy
-local_css
 sklearn
