@@ -73,6 +73,10 @@ b = Bayesian(visitors_A, conversions_A, visitors_B, conversions_B)
 if method == "Bayesian":
 
     try:
+        b.generate_posterior_samples()
+        b.calculate_probabilities()
+        b.plot_bayesian_probabilities()
+        
         st.text("")
 
         bayesian_data = {
@@ -94,7 +98,8 @@ if method == "Bayesian":
         """
 
         st.text("")
-
+        
+         b.plot_simulation_of_difference()
 
     
 
