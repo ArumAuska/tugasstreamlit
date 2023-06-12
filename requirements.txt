@@ -1,7 +1,6 @@
 matplotlib
 functions
 bayesian
-graph_objects
 math
 scipy
 seaborn
@@ -10,3 +9,4 @@ numpy
 create_plotly_table
 local_css
 percentage_format
+sklearn
