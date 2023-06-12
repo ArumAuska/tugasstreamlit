@@ -3,9 +3,6 @@ functions
 bayesian
 scipy
 seaborn
-round_decimals_down
 numpy
-create_plotly_table
 local_css
-percentage_format
 sklearn
